@@ -48,6 +48,17 @@ Our solution, `NoMyocardial`, is designed to assist doctors in the early detecti
 - `Classification and Regression Tree (CART)`: obtain important variables (general risk indicators) for AMI-related complications
 - `Logistic Regression`: further analyse each variable by their key risk indicators
 
+## 📈 Dataset
+
+[Myocardial infarction complications](https://archive.ics.uci.edu/ml/datasets/Myocardial+infarction+complications) from UCI Machine Learning Repository
+
+- Data Set Characteristics: Multivariate
+- Number of Instances:1700
+- Attribute Characteristics: Real
+- Number of Attributes: 124
+- Associated Tasks: Classification
+- Missing Values? Yes
+
 ## ⭐️ Results
 
 |                     | Atrial Fibrillation | Chronic Heart Failure | Relapse of MI |
